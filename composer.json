@@ -1,0 +1,12 @@
+{
+    "name": "settermjd/test-gitdeploy-repo",
+    "authors": [
+        {
+            "name": "Matthew Setter",
+            "email": "matthew.setter@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
